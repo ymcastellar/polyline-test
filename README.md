@@ -18,7 +18,7 @@ _p~iF~ps|U_ulLnnqC_mqNvxq`@
 
 ### How to run
 
-1. Extract .zip file
+1. Extract .rar file
 2. Enter to poly-test folder
 3. Open the Terminal.
 4. Type ``` go run .\main.go example.log ```
